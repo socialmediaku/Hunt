@@ -1,0 +1,53 @@
+*     {
+    box-sizing: border-box;
+  }
+  html,
+  
+
+  .Pembuka{
+    margin-top: 200px;
+    height: 100;
+    width: 100;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Pembuka1
+  {
+    font-size: 30px;
+  }
+
+  .Pembuka1 p
+  {
+    text-align: center;
+  }
+
+  .gambar1 img{
+    margin-top: 500px;
+    
+    width: 100%;
+  }
+
+  .gambar2 img{
+    margin-top: 500px;
+    width: 100%;
+  }
+  
+  .gambar3{
+    margin-top: 100px;
+    margin-left: 630px;
+  }
+  .gambar4{
+    margin-top: 300px;
+  }
+
+    .gambar5{
+        margin-top: 300px;
+    }
+
+    .gambar7{
+        margin-top: 300px;
+        margin-left: 740px;
+    }
